@@ -1,6 +1,4 @@
-## 👋
-
-<h1>Hey, we're EnerGeek!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+## <h1>Hey, we're EnerGeek!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
 The home of the best spanish-based digital entertainment 📺 for those looking to indulge their passion for anime 🎴, movies 🎥 and exciting programs 🎤 since 2021.
 With a high-quality viewing experience and a diverse selection of programs suitable for the whole family.... We are your fan energy!
